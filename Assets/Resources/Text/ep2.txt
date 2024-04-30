@@ -1,0 +1,12 @@
+Chainsmoker# Greetings explorer, may I borrow a cigarette. 
+Explorer# Sorry, I don't have any. 
+Chainsmoker# Ok then, do you know where I can find any?
+Explorer# Well, not many people smoke anymore, and there are hardly any stores still sell them. 
+Explorer# But I guess it's your lucky day, there is an abandoned cigarette factory down the road. 
+Explorer# There should be a lot of them left there, and there should be some abandoned cargoes on the way too. 
+Chainsmoker# Thank you, how can I repay you for this. 
+Explorer# No need, but you know these are harmful for you health right?
+Chainsmoker# Haha, don't worry about me, I'll be fine. 
+Explorer# Well, good luck then. 
+Chainsmoker# You too.
+ # 
